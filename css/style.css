@@ -1,0 +1,35 @@
+body{
+	background: #580000;
+	font-family:tahoma;
+}
+.atat{
+	text-align: center;
+	width: 60%;
+	margin: auto;
+}
+.link{
+	font-size: 18px;
+	text-align: center;
+	height: auto;
+	margin-top: 20%;
+
+
+}
+.link a{
+	color:#FFFFFF;
+	display: block;
+	margin-bottom: 15px;
+
+}
+.my_input{
+	display: block;
+	margin-bottom: 10px;
+	width: 100%;
+	padding: 20px;
+}
+.boton{
+	padding:10px 20px;
+	color: #FFFFFF;
+	background-color: black;
+	cursor: pointer;
+}
